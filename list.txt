@@ -1,3 +1,4 @@
 # Karthik's Personal DNS Blocklist
 
 127.0.0.1 telemetry.astro.build
+127.0.0.1 nom.telemetrydeck.com
