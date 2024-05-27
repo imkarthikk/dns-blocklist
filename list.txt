@@ -1,4 +1,10 @@
 # Karthik's Personal DNS Blocklist
+#
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+
+127.0.0.1  localhost
+::1  localhost
 
 127.0.0.1 telemetry.astro.build
 127.0.0.1 nom.telemetrydeck.com
